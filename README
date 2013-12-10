@@ -1,1 +1,11 @@
 NEVER run from the Issue, Solve it!
+
+/client_web : algorithm web client_web
+/server 	: algorithm web server
+/latest 	: latest problems (per week)
+/problems	: algorithm problem
+	/problems/baisc 			: reference code
+	/problems/dp				: dynamic programming
+	/problems/data_structure	: data_structure(queue,stack...)
+	/problems/math				: relates to math
+
