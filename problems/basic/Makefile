@@ -12,4 +12,4 @@ $(TARGET) : $(OBJS)
 clean:
 	    rm -f $(OBJS) $(TARGET)
 
-MySocket.o : main.cpp main.h
+main.o : main.cpp main.h
