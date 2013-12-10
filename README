@@ -6,6 +6,6 @@ NEVER run from the Issue, Solve it!
 /problems	: algorithm problem
 	/problems/baisc				: reference code
 	/problems/dp				: dynamic programming
-	/problems/data_structure	: data_structure(queue,stack...)
+	/problems/data_structure	: data_structure (queue,stack...)
 	/problems/math				: relates to math
 
